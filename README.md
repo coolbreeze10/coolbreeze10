@@ -1,10 +1,9 @@
 # 👋 Hello, I'm [Jerry Song] 
 
-**`Digital Craftsman (Developer)`**
 
-[![GitHub Followers](https://img.shields.io/github/followers/xx?label=Follow%20Me&style=social)](https://github.com/xx)
+[![GitHub Followers](https://img.shields.io/github/followers/xx?label=Follow%20Me&style=social)](https://github.com)
 [![Website Badge](https://img.shields.io/badge/Portfolio-xx-blue?style=flat&logo=google-chrome)](https://xx.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xx-informational?style=flat&logo=linkedin)](https://linkedin.com/in/xx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xx-informational?style=flat&logo=linkedin)](https://linkedin.com/)
 
 ---
 

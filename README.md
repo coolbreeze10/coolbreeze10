@@ -27,11 +27,8 @@
 
 ### 📈 GitHub Stats
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=xx&theme=dark)](https://git.io/streak-stats)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xx&layout=compact&theme=vision-friendly-dark)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=coolbreeze10&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolbreeze10&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
